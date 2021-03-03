@@ -1,0 +1,2 @@
+# libtcodtest
+trying out libtcod
