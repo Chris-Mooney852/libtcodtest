@@ -16,7 +16,7 @@ def main() -> None:
 
     room_max_size = 15
     room_min_size = 6
-    max_rooms = 200
+    max_rooms = 50
 
     tileset = tcod.tileset.load_tilesheet(
         "assets/tiles.png", 32, 8, tcod.tileset.CHARMAP_TCOD
